@@ -1,0 +1,301 @@
+product_id,product_name,category,price,cost_price,brand
+1,Tax,Clothing,1571.14,916.31,Ward Group
+2,Beat,Home,162.86,1777.38,Anderson Inc
+3,Term,Beauty,1407.01,198.86,Johnson-Brown
+4,Chance,Beauty,4485.44,999.86,Garcia Inc
+5,Always,Sports,4696.11,1271.06,"Martinez, Meyer and Jackson"
+6,Partner,Sports,905.68,1367.54,Lyons LLC
+7,Value,Clothing,2977.47,2019.28,Cruz-Lewis
+8,Thus,Beauty,1531.1,1813.88,Young-Jackson
+9,Memory,Electronics,2541.75,2189.27,Fernandez and Sons
+10,Keep,Electronics,4384.24,990.52,"Wilson, Mitchell and Sweeney"
+11,Land,Beauty,4126.24,395.18,Jones-Ray
+12,Short,Sports,1645.78,114.57,"Terrell, Huber and Castro"
+13,Produce,Sports,3075.58,335.92,"Vasquez, Morrison and Armstrong"
+14,Southern,Sports,4246.91,716.94,Mendoza LLC
+15,Show,Clothing,2876.77,1850.86,"Salinas, Garrett and Alvarez"
+16,Year,Electronics,3952.33,1358.44,Mosley Inc
+17,Audience,Clothing,2227.3,1229.74,Scott PLC
+18,Office,Home,534.95,183.9,Mitchell Inc
+19,Sit,Electronics,175.58,557.3,Thomas and Sons
+20,Rich,Home,670.4,1611.63,Fischer-Carter
+21,Area,Electronics,2599.67,1627.85,Hurst-Brock
+22,Analysis,Home,3109.21,1998.84,Simpson-Lopez
+23,Man,Sports,4414.98,111.62,Browning-Sheppard
+24,Certainly,Sports,4661.82,2236.59,Bishop Ltd
+25,Rather,Clothing,2807.38,2018.35,"James, Berry and Snyder"
+26,Put,Electronics,1802.56,2580.47,Hoover Inc
+27,Top,Home,4687.97,1500.39,Davis-Cummings
+28,Local,Beauty,626.91,1973.52,James LLC
+29,I,Home,708.63,159.27,Ochoa Inc
+30,Local,Clothing,4638.28,940.47,Williams-Gonzalez
+31,Wear,Electronics,3542.58,1495.29,Jenkins PLC
+32,Challenge,Electronics,3229.2,1270.31,Allen Group
+33,Although,Electronics,1950.06,2477.14,Price-Stewart
+34,Mrs,Clothing,3132.01,1640.17,Hernandez-Mcintyre
+35,Commercial,Beauty,147.11,2112.97,"Soto, Miller and Bennett"
+36,Water,Electronics,649.16,888.4,Mendez LLC
+37,Few,Beauty,3070.15,2424.48,"Davis, Osborn and Vazquez"
+38,Value,Home,1830.1,1502.43,"Jenkins, Wiggins and Haney"
+39,Prove,Sports,1788.8,648.96,Whitaker-Grimes
+40,Over,Sports,1192.17,1714.67,"Collins, Hurst and Smith"
+41,Old,Home,4424.05,2565.44,Richmond PLC
+42,Only,Sports,1883.45,1993.93,Decker-Bishop
+43,This,Clothing,241.69,1812.02,"Lloyd, Gallagher and Donovan"
+44,Church,Sports,3885.07,2774.18,"Horne, Johnson and Hall"
+45,Level,Sports,2210.75,2961.54,"Walker, Ray and Sandoval"
+46,Tax,Beauty,3061.47,185.02,Nunez-Garrison
+47,Three,Beauty,2238.71,974.42,Myers Ltd
+48,Election,Clothing,1103.95,1706.44,Allen Inc
+49,Suggest,Clothing,1365.91,558.3,"Harrison, Fleming and Thomas"
+50,Beautiful,Clothing,4334.05,2352.05,Todd-Griffith
+51,Environmental,Electronics,3723.25,2830.2,"Duncan, Weber and Erickson"
+52,Media,Clothing,4453.5,1869.75,Martinez-Ortega
+53,Seem,Home,4303.7,2545.55,Reed and Sons
+54,Exactly,Beauty,954.56,663.15,Park Ltd
+55,Grow,Electronics,4758.22,1221.26,"Cooper, Mcclure and Reilly"
+56,Today,Beauty,886.8,667.22,Wood Ltd
+57,Hard,Sports,924.14,887.24,Gibson and Sons
+58,Economic,Home,3807.05,858.96,Swanson PLC
+59,Establish,Sports,2724.81,2834.9,Simmons-Carroll
+60,Upon,Home,4674.62,391.45,"Richardson, Gomez and Brown"
+61,Attention,Home,3565.73,1211.5,Frey LLC
+62,Fill,Sports,2655.9,1913.34,Ray-White
+63,Language,Clothing,4344.14,1080.59,Parker-Hall
+64,Card,Home,2393.81,1791.2,West-Clark
+65,Use,Home,4314.56,722.72,"Anderson, Braun and Smith"
+66,Network,Clothing,610.55,2474.87,Taylor-Huynh
+67,Body,Beauty,1384.47,163.26,Barber and Sons
+68,Partner,Electronics,998.72,1966.56,"Hayes, Johnson and Cox"
+69,Risk,Beauty,2395.28,1778.84,"Harmon, Jackson and Callahan"
+70,College,Sports,2565.16,1562.37,Howe Group
+71,Force,Clothing,3792.47,1117.92,Miller Group
+72,Treat,Electronics,694.52,1557.23,Bryant-Campbell
+73,Will,Home,4378.53,1725.92,Hunter and Sons
+74,Never,Beauty,3005.42,1206.37,"Hunt, Snow and Barrera"
+75,Including,Sports,3915.6,827.49,Sawyer-Jordan
+76,Can,Sports,3589.68,2022.72,Jensen-Villarreal
+77,Along,Electronics,3082.83,140.61,Ellis Inc
+78,Again,Home,3855.59,2201.32,Morris-Lamb
+79,Man,Electronics,2449.85,1343.79,Black-Fowler
+80,Road,Electronics,2157.78,1463.35,Frazier-Salazar
+81,Around,Electronics,709.48,1297.53,Huffman-Stone
+82,Tend,Electronics,716.07,723.96,Welch-Riley
+83,Wear,Clothing,4022.4,1359.12,"Lewis, Reyes and Robinson"
+84,Throw,Electronics,3865.55,1555.0,Walker-Hansen
+85,System,Beauty,4346.15,2178.77,Barnes PLC
+86,Age,Beauty,4925.27,897.28,Ortiz-Ward
+87,Plant,Beauty,2631.45,1219.96,Smith Group
+88,Son,Sports,555.9,1475.78,"Gonzalez, Steele and Webb"
+89,Stop,Sports,130.17,2975.18,West PLC
+90,Firm,Home,183.24,1690.42,Sloan LLC
+91,Even,Electronics,1308.63,826.11,"Gallagher, Bailey and Wilcox"
+92,Heart,Beauty,1893.48,1709.22,Monroe Ltd
+93,Professor,Clothing,4086.52,2852.19,"Jackson, Hart and Hensley"
+94,Their,Sports,2572.33,2620.14,Brewer and Sons
+95,Rather,Electronics,1944.44,2339.3,Kelley Group
+96,Member,Home,4243.67,1330.78,Collins-Calhoun
+97,Effort,Sports,1334.43,2063.44,Thompson PLC
+98,Fish,Home,1535.92,673.04,"Love, Smith and Hernandez"
+99,Say,Home,648.26,1690.34,Taylor LLC
+100,Author,Electronics,4054.92,86.15,Snow PLC
+101,Herself,Clothing,3677.55,304.92,"Kerr, Hughes and Mckinney"
+102,Yeah,Clothing,1655.92,2100.46,Bush and Sons
+103,Speech,Clothing,1726.45,1520.25,"Alvarez, Frank and Miller"
+104,Citizen,Sports,4507.94,2022.52,Brown Inc
+105,Technology,Home,985.57,2263.06,"Travis, Noble and Cain"
+106,Lead,Beauty,1023.38,2277.49,Day-Harris
+107,Truth,Clothing,171.93,373.37,Reed Inc
+108,Guy,Electronics,3213.87,1923.48,"Edwards, Taylor and Mcclain"
+109,Peace,Beauty,500.73,2801.92,Chambers-Bailey
+110,Million,Clothing,478.85,1649.98,Hughes Ltd
+111,Laugh,Beauty,132.09,2499.66,Harris Group
+112,Water,Home,2686.4,1697.99,Richardson Inc
+113,Operation,Electronics,180.63,941.76,Smith-Taylor
+114,Property,Beauty,2450.58,2118.67,Oliver-Henderson
+115,Art,Electronics,2411.4,817.5,Jones PLC
+116,Social,Clothing,4729.75,444.09,Garrett-Vasquez
+117,Arrive,Clothing,2823.36,2672.71,Reyes-Guerrero
+118,Economic,Clothing,2699.14,2253.76,Franklin Group
+119,Century,Home,822.62,459.98,Benson-Hunt
+120,Require,Sports,2696.47,255.4,Patterson-Shah
+121,Stock,Home,2781.54,2711.38,Morrison Inc
+122,Air,Sports,1254.11,2456.71,"Haley, Hurley and Adams"
+123,Save,Beauty,823.42,1994.41,Phelps-Stevens
+124,Hope,Electronics,319.5,2855.03,"Wiley, Gordon and Henderson"
+125,President,Sports,1471.63,733.28,Turner Group
+126,Be,Electronics,1025.69,1954.11,Lucero LLC
+127,Former,Sports,4510.8,470.72,"Lambert, Griffin and Perez"
+128,Quickly,Electronics,4900.43,609.75,Mills PLC
+129,Yourself,Sports,2531.28,469.25,"Turner, Smith and Ferguson"
+130,Speak,Electronics,3052.06,2011.31,Edwards-Mcknight
+131,However,Sports,2349.61,1823.56,Blair-Stevenson
+132,Left,Beauty,1515.14,1290.05,Oliver-Myers
+133,Seven,Sports,4617.75,140.84,Hurley Group
+134,Likely,Electronics,1581.19,2485.66,"Adams, Wolf and Tucker"
+135,Ground,Beauty,1279.65,1125.45,King-Nicholson
+136,Late,Beauty,835.08,902.11,Gray-Dixon
+137,Into,Home,1005.84,683.09,"Smith, Wang and Mcfarland"
+138,Serious,Sports,1616.24,1378.46,Freeman-Heath
+139,Defense,Sports,3351.42,2979.48,"Shaw, Williams and Chung"
+140,Image,Home,2103.47,684.55,Williams-Adkins
+141,First,Home,1689.08,540.07,Garcia-Mccoy
+142,At,Home,2632.44,2285.01,Taylor-Sharp
+143,Until,Clothing,2349.66,1687.19,Santos Ltd
+144,Campaign,Beauty,2500.85,2697.0,"Black, Pope and Diaz"
+145,Business,Clothing,1799.29,1080.31,Kerr Ltd
+146,Near,Sports,1738.9,1217.8,"Walker, Fox and Frank"
+147,Front,Beauty,1158.14,2475.12,Roberson-White
+148,Develop,Beauty,2047.04,1454.34,"Lopez, Klein and Mendez"
+149,Unit,Clothing,4047.23,1114.14,Harvey and Sons
+150,Across,Sports,1188.32,1567.95,Wilson-Coleman
+151,Example,Clothing,4406.48,2557.58,Navarro-Atkins
+152,Provide,Clothing,888.12,663.49,Gilbert PLC
+153,Sport,Sports,4053.91,720.25,Summers-Johnson
+154,Action,Electronics,3505.06,640.79,Patterson-Anderson
+155,Region,Beauty,2767.71,107.79,Camacho-Decker
+156,Every,Beauty,4614.81,773.69,Hughes Ltd
+157,They,Beauty,1420.43,2585.62,Richard and Sons
+158,What,Sports,3200.7,1611.23,Manning-Barrera
+159,Memory,Home,807.72,384.98,Lewis Inc
+160,Floor,Home,961.86,2142.14,Brewer Ltd
+161,Letter,Beauty,2773.7,2068.45,Brown-Spencer
+162,Show,Home,3712.96,796.2,"Miller, Peterson and Lane"
+163,Will,Beauty,3977.99,670.01,"Henderson, Mccann and Flores"
+164,Interview,Electronics,816.74,1251.5,"Palmer, Farrell and Lin"
+165,Political,Clothing,1745.41,702.23,Acosta Group
+166,Color,Beauty,1655.44,141.47,"Webster, Cooper and Miller"
+167,Policy,Electronics,3968.26,1621.09,Adams-Miller
+168,Community,Electronics,1435.0,213.71,"Campbell, Jackson and Nelson"
+169,Recently,Electronics,4666.14,1106.11,"Smith, Maxwell and Robinson"
+170,Create,Electronics,2123.49,567.93,Coleman LLC
+171,Against,Clothing,226.42,1954.21,"Williams, Robinson and Snyder"
+172,Director,Beauty,4013.49,2627.26,"White, Walker and Montes"
+173,Record,Home,3917.1,972.38,Rasmussen-Anderson
+174,Be,Electronics,4378.44,782.46,"Brown, Robinson and Black"
+175,Risk,Sports,797.23,1514.68,"Foster, Stewart and Collins"
+176,Carry,Electronics,4859.23,1445.1,Perry LLC
+177,Question,Beauty,1279.69,1064.32,Weaver and Sons
+178,Toward,Electronics,113.25,1057.37,Romero and Sons
+179,Effort,Beauty,3748.16,881.46,"Ayala, English and Mcdaniel"
+180,West,Beauty,655.78,1415.58,Thompson LLC
+181,Measure,Home,3568.87,1870.52,Williams-Gonzalez
+182,Writer,Clothing,2659.11,1934.85,Boone-White
+183,Toward,Home,2480.1,1228.13,"Benson, Smith and Adams"
+184,Professor,Electronics,3022.86,777.49,Webb-Robinson
+185,Prepare,Home,1406.51,2500.91,Davis-Peters
+186,Police,Clothing,4809.64,1508.03,Gibson Ltd
+187,Trial,Sports,4233.39,1658.82,"Olsen, Sanchez and Knapp"
+188,State,Clothing,270.55,1913.82,Friedman Ltd
+189,Unit,Beauty,2918.36,572.73,"Harmon, Lang and Greer"
+190,Recent,Sports,1962.53,980.01,"Pennington, Hayes and Hubbard"
+191,Technology,Sports,2272.49,1693.23,"Cline, Clarke and Mayo"
+192,Seat,Home,1974.7,1018.43,Kim-Brady
+193,Likely,Home,4029.85,2836.69,"Walter, Maldonado and Campos"
+194,During,Clothing,2773.23,344.94,Taylor Ltd
+195,Be,Electronics,1333.33,2905.95,"Patterson, Maxwell and Flynn"
+196,College,Clothing,415.32,2846.61,"Lewis, Gonzalez and Arellano"
+197,Hand,Clothing,3435.53,688.97,Martin-Woods
+198,Local,Clothing,2228.32,288.62,Castro-Brown
+199,Soldier,Beauty,1706.15,2300.6,Fritz-Young
+200,Road,Electronics,456.13,52.86,"Morrison, Mason and Williams"
+201,Democrat,Sports,3328.08,1776.12,"Bradford, Harris and Kramer"
+202,Somebody,Sports,1540.48,1576.26,Ayala Ltd
+203,Usually,Beauty,4122.66,1663.16,"Rubio, Carter and Moody"
+204,Old,Electronics,2819.85,311.0,Sims-Barnes
+205,Whom,Electronics,1317.26,1371.33,Harmon Ltd
+206,Reduce,Electronics,789.54,2076.78,"Davies, Blair and Mooney"
+207,Language,Home,4279.16,1119.73,Moore-Wilson
+208,Too,Electronics,2962.16,2936.0,"Luna, Allen and Farmer"
+209,Information,Home,4282.34,2183.07,"Spencer, Robinson and Ruiz"
+210,Building,Beauty,161.58,2596.9,Santos-Harris
+211,Measure,Beauty,2468.4,1953.8,"Werner, Burton and Henry"
+212,Continue,Clothing,3691.31,2168.69,"Cole, Scott and Hodges"
+213,Give,Home,2436.3,1407.71,"Richards, Perez and Lewis"
+214,Final,Sports,956.15,2809.23,Martin-Lewis
+215,Benefit,Home,3807.34,204.84,Richmond-Nash
+216,Personal,Sports,1354.53,1613.94,"Davis, Moody and Williams"
+217,Soon,Sports,1838.37,217.64,"Manning, Newton and Hanson"
+218,Region,Sports,693.44,1384.92,Ortiz and Sons
+219,Late,Sports,134.79,2396.84,Jones-Watts
+220,Thing,Electronics,2980.59,396.99,Ruiz-Gomez
+221,Letter,Beauty,3628.31,627.18,"Norman, Holmes and Brown"
+222,Nearly,Clothing,3519.57,1560.73,Taylor-Johnson
+223,Theory,Sports,3793.34,1389.11,Watkins Ltd
+224,Art,Home,1630.29,95.77,Young-Moore
+225,Place,Sports,841.46,1465.9,Jackson LLC
+226,Old,Sports,2658.25,2697.8,"Phelps, Gordon and Morales"
+227,Board,Home,4186.52,2528.42,Galloway Ltd
+228,Must,Sports,4818.58,514.45,Lee Group
+229,Herself,Home,1081.83,1795.0,"Bell, Perez and Moore"
+230,Build,Sports,1046.39,830.84,Gonzalez-Smith
+231,Cold,Sports,671.34,1136.8,Richardson PLC
+232,Several,Clothing,3920.49,970.16,"Fitzpatrick, Jimenez and Mercado"
+233,Already,Sports,3048.45,817.72,Curtis-Smith
+234,Through,Electronics,1752.01,2203.04,Horton-Young
+235,Very,Home,1157.47,504.52,Fletcher LLC
+236,Pass,Beauty,3037.97,1685.55,Coleman-Wood
+237,Economy,Clothing,3100.61,1916.41,"Carson, Wright and Jones"
+238,Society,Beauty,2511.77,1759.27,Douglas PLC
+239,Instead,Clothing,3599.71,729.09,Reed PLC
+240,Author,Electronics,1075.21,2577.79,"Archer, Woodward and Soto"
+241,A,Beauty,4140.57,1402.6,Weber-Kennedy
+242,Describe,Beauty,4351.59,1977.55,Freeman-Brown
+243,Season,Clothing,2564.2,1939.54,Price Inc
+244,Movement,Electronics,3623.71,1820.3,"Gilmore, Johnson and Morales"
+245,Then,Beauty,4842.81,2328.22,Thomas-Alvarado
+246,Ask,Electronics,358.61,2750.51,"Jones, Phillips and Edwards"
+247,Common,Sports,2671.22,1128.22,"Garcia, Bishop and Warren"
+248,Whatever,Electronics,1314.7,375.72,Randolph Group
+249,Plant,Sports,2443.3,2985.57,Taylor PLC
+250,Suddenly,Beauty,2498.75,2665.09,Lowery-Porter
+251,Beautiful,Beauty,148.83,923.85,Contreras-Simmons
+252,Identify,Sports,3127.93,2343.2,Anderson-Torres
+253,Happen,Beauty,655.15,647.6,Blake LLC
+254,Heavy,Sports,1160.5,2145.91,"Turner, Cooper and Brown"
+255,Building,Electronics,634.26,326.73,"Horne, Bennett and Bryant"
+256,Maintain,Beauty,340.75,2345.41,"Hernandez, Hunt and Roy"
+257,Clear,Beauty,4439.91,1725.5,Campos Inc
+258,Painting,Sports,3042.51,2378.11,"King, Warner and Kelly"
+259,Evidence,Beauty,2977.48,1656.4,Hudson Ltd
+260,Out,Sports,4129.31,1882.27,Smith Group
+261,Pattern,Clothing,3503.75,1426.01,Simmons-Rodriguez
+262,Employee,Electronics,579.31,1940.92,Bowers Group
+263,Scientist,Home,3765.62,1445.04,Jenkins and Sons
+264,Four,Sports,490.72,51.32,Moore-Richardson
+265,Whatever,Electronics,3805.03,2518.62,"Phillips, Saunders and Howell"
+266,Partner,Clothing,1513.44,1979.54,Hahn-Wells
+267,Stop,Clothing,4752.35,1953.76,Miller Group
+268,Even,Electronics,4342.22,1770.39,"Cook, Parker and Davenport"
+269,Social,Electronics,4355.56,471.31,Jackson-Evans
+270,Red,Beauty,3310.85,2734.57,"Berg, Thomas and Abbott"
+271,Safe,Home,4563.65,1194.32,Mullins-Schultz
+272,Drug,Home,1711.82,1238.48,Garcia-Bowen
+273,Much,Sports,4036.68,1293.46,Neal Ltd
+274,Present,Home,2974.84,2867.83,Wright-Bautista
+275,Into,Sports,1095.75,917.17,"Lee, Mccarthy and Lucas"
+276,There,Beauty,2930.01,379.72,Hernandez Ltd
+277,Under,Beauty,3435.47,1942.27,Joseph-Ellis
+278,Sell,Electronics,2540.74,2848.02,Hall LLC
+279,Entire,Sports,347.7,2867.92,"Miller, Tran and Miller"
+280,Manager,Beauty,990.64,1091.27,"Brown, Hogan and Osborne"
+281,Word,Sports,914.17,735.7,Bennett-Harris
+282,Week,Clothing,3926.46,1981.11,Ramirez Ltd
+283,Allow,Beauty,1366.35,116.52,Patterson PLC
+284,My,Sports,1844.85,2688.88,Garner-Martin
+285,Them,Sports,2791.44,1877.89,"Walker, Sanchez and Bennett"
+286,Front,Clothing,3079.76,2774.62,Andrade-Ferguson
+287,Protect,Home,4626.22,2496.11,Wells Ltd
+288,Suddenly,Electronics,4205.02,2011.38,Juarez Ltd
+289,Able,Electronics,1989.64,2756.39,Wilson-Johnson
+290,Red,Home,1966.47,1494.36,Calderon and Sons
+291,Education,Electronics,850.79,2831.72,Harris LLC
+292,Event,Electronics,4156.58,1708.05,Duke PLC
+293,Discover,Home,3384.67,1863.29,Johnson-Riley
+294,Plan,Clothing,294.39,61.98,Johnson-Gould
+295,Consider,Electronics,2343.7,2396.88,"Wilson, Flores and Smith"
+296,Prevent,Electronics,693.33,917.25,"Rivera, Banks and Day"
+297,Sure,Beauty,4780.41,2777.45,"Martinez, Nichols and Adams"
+298,Rest,Beauty,2955.32,2292.66,"Martin, Vaughn and Santiago"
+299,Produce,Home,2527.49,2931.76,"Bauer, Burns and Young"
+300,Pretty,Electronics,3405.97,1146.24,"Fowler, Sweeney and Lee"
